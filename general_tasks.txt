@@ -1,0 +1,7 @@
+1. Design a basic user interface and Implement the basic functionalities for all 8 requirments for all 8 requirments
+	user story 1-5 Giselle, Lydia; 6-8 Yangkun, Peijia
+	
+2.general review/testing.
+	Evelyn
+3. Smoothify the user interface and fix any related issues.
+	Evelyn

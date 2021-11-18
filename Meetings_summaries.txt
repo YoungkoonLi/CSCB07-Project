@@ -1,0 +1,11 @@
+11.17 meeting：Did some pull and push tests，created GitHub accounts, shared a sample project. Everyone agreed to learn some github basics.
+
+
+Nov 18, 2021
+In today's meeting, our group members took the planning poker and decided the level of difficulty of each of the eight task. 
+We have assigned more specific missions to each one of us with the consideration of layout design of the android app. 
+Desbite the slice disagreement on choosing the level of work, we all shared our idea in testing, coding habits, handover of tasks and many other aspects. 
+Aside from that, we even looked an example of a designning of a website to enhance our understanding in this project in terms of the GUI. 
+Schedules next meeting next Mon. Possibly smaller meetings without all memebers attending during the weekend.
+
+Nov 19, 2021
